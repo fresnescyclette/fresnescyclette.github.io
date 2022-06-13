@@ -1,0 +1,10 @@
+email: ''
+phone: ''
+businessName: 'Hugo Serif'
+address: |
+   1 rue Julien Chaillioux
+   94260 Fresnes
+hours:
+  - day: Samedi
+    open: 09:00 - 12:00
+    close: 14:00 - 17:00
