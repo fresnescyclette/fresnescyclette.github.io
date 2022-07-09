@@ -10,48 +10,34 @@ heroSubHeading: 'Nous collectons les vélos, accessoires, pièces, outils inutil
 heroBackground: 'images/pexels-susanne-jutzeler-sujufoto-1130494.webp'
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Nous collectons les vélos, accessoires, pièces et outils inutilisés
+dans notre local situé au 1 rue Julien Chailloux à Fresnes.
 
-## Ne verba patulosque numen vix libet
+## Vous avez un vélo dont vous ne voulez plus ?
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+Si vous souhaitez vous débarrasser :
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+- d'un vélo devenu trop petit pour vos enfants
+- d'un vélo dont vous n'avez plus l'utilité
+- des vélos oubliés par d'anciens propriétaires, si vous faites partie d'un conseil syndical
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+Nous pouvons peut-être lui donner une seconde vie !
 
-## Postquam tamen
+Après un examen, en fonction de son état :
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+- si c'est possible, il sera remis en état en utilisant prioritairement des pièces de rechange de récupération puis revendu
+- sinon il sera démonté pour que ses pièces soient réutilisées
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+## Vous avez des outils ? Des pièces détachées ? Du mobilier d'atelier ?
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+### Les outils
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+Qu'ils soient spécifiques à la mécanique vélo ou non, n'hésitez pas à nous les proposer. Le réemploi est également à l'honneur en ce qui concerne les outils.
+
+### Les pièces détachées
+
+Celles-ci constituent notre matière pour la remise en état des vélos et pour le dépannage des usagers qui viennent à l'atelier. Nous recevrons celles-ci avec joie !
+
+### Le mobilier d'atelier
+
+Notre atelier est encore aujourd'hui insuffisamment meublé. Toute proposition de don de meuble d'atelier (étagères métalliques, meubles à tiroirs, tabourets, ...) recevra également le meilleur accueil.
